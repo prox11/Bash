@@ -1,1 +1,3 @@
 # Bash
+
+Basic bash scripting.
